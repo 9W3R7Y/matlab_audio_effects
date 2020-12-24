@@ -2,7 +2,7 @@
 ## 概要
 MATLABで作成したオーディオエフェクトを公開している．
 
-## Qiitaフォルダについて
+## qiitaフォルダについて
 このフォルダにはQiitaで解説したオーディオエフェクトのSimulinkファイルが保存されている．
 
 ### qiita_00_preparation
@@ -17,5 +17,5 @@ MATLABで作成したオーディオエフェクトを公開している．
 ### qiita_03_vocoder
 #03 Vocoder編（）
 
-## Vooderフォルダについて
+## stereo_vooderフォルダについて
 作成したステレオ対応のVocoderを公開している．
