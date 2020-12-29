@@ -13,7 +13,10 @@ MATLABで作成したオーディオエフェクトを公開している．
 このフォルダにはQiitaで解説したオーディオエフェクトのSimulinkファイルが保存されている．
 
 ### qiita_00_preparation
-#00 準備・基礎編（）
+#00 準備・基礎編
+https://qiita.com/9W3R7Y/private/3a45ac71f8baf199f45d
+
+Simulinkで音を扱うチュートリアル & デシベル単位で音量を調節するMATLAB Functionブロックの作成
 
 ### qiita_01_distortion
 #01 Distorion編（）
