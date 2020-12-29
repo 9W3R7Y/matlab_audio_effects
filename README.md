@@ -17,14 +17,20 @@ Simulinkで音を扱うチュートリアル & デシベル単位で音量を調
 
 https://qiita.com/9W3R7Y/private/3a45ac71f8baf199f45d
 
-### qiita_01_distortion
-#01 Distorion編（）
+### #01 Distorion編（）
+非線形Distortionの作成
 
-### qiita_02_delay
-#02 Delay編（）
+https://qiita.com/9W3R7Y/private/5b360aa05517c72cd964
 
-### qiita_03_vocoder
-#03 Vocoder編（）
+### #02 Delay編
+Delay作成
+
+https://qiita.com/9W3R7Y/private/e94c30d8bbddce5a3267
+
+### #03 Vocoder編（）
+Vocoderの作成
+
+https://qiita.com/9W3R7Y/private/0e48ad62ab3282505e19
 
 ## stereo_vooderフォルダについて
 作成したステレオ対応のVocoderを公開している．
